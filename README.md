@@ -107,7 +107,7 @@ pip install -r requirements.txt
 ### Configurar el token:
 Edita `main.py` y reemplaza `TU_TOKEN_AQUI`:
 ```python
-TOKEN = "8004671936:AAGtMa8_oThlpXKeXXKHKx8snuyTDEt1MDE"
+TOKEN = "token"
 ```
 
 ### Configurar credenciales:

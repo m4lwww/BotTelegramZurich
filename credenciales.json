@@ -1,10 +1,10 @@
 [
-    {
-        "identificador": "admin123",
-        "rol": "admin"
-    },
-    {
-        "identificador": "user123",
-        "rol": "user"
-    }
+  {
+    "identificador": "admin123",
+    "rol": "admin"
+  },
+  {
+    "identificador": "user123",
+    "rol": "user"
+  }
 ]
